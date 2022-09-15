@@ -14,8 +14,7 @@ header h1{
 }
 
 .post{
-    background: white;border-radius: 20%;
-    padding: 45px;
+    background: white;border-radius: 5%;
     width: 500px;
     height: 100%;
 }
@@ -25,7 +24,7 @@ header h1{
     margin-top: 20px;
 }
 .image1{
-    width: 540px;
+    width: 100%;
     display: flex;
 }
 .title{
@@ -42,6 +41,6 @@ header h1{
 .content{
     display: flex;
     margin: auto;
-    padding: 10px;
+    padding: 20px;
     font-family:'Montserrat', sans-serif;
 }
