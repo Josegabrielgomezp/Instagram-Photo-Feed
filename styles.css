@@ -1,0 +1,47 @@
+body{
+    background: rgb(211, 209, 209);
+    margin: 0;
+}
+header{
+    background: white;
+    
+}
+header h1{
+    margin: auto;
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+    
+}
+
+.post{
+    background: white;border-radius: 20%;
+    padding: 45px;
+    width: 500px;
+    height: 100%;
+}
+.container{
+    width:600px;
+    margin: auto;
+    margin-top: 20px;
+}
+.image1{
+    width: 540px;
+    display: flex;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+    font-family:'Montserrat', sans-serif;
+}
+.date1{
+    float: right;
+    margin-top: 27px;
+    margin-left: 50px;
+}
+.content{
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    font-family:'Montserrat', sans-serif;
+}
